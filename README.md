@@ -4,7 +4,7 @@ Building ML algorithms from scratch using NumPy to deeply understand the fundame
 
 ## 🎯 Mission
 
-Implementing machine learning algorithms without high-level libraries (no sklearn, PyTorch, or TensorFlow). Each project includes complete implementations, tests, and detailed explanations.
+Implementing machine learning algorithms from scratch. Each project includes complete implementations, tests, and detailed explanations.
 
 ## 📚 Projects
 
