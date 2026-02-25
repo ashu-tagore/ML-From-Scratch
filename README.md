@@ -2,11 +2,11 @@
 
 Building ML algorithms from scratch using NumPy to deeply understand the fundamentals.
 
-## 🎯 Mission
+## Mission
 
 Implementing machine learning algorithms from scratch. Each project includes complete implementations, tests, and detailed explanations.
 
-## 📚 Projects
+## Projects
 
 ### Phase 1: Fundamentals
 | # | Project | Status | Dataset |
@@ -17,14 +17,14 @@ Implementing machine learning algorithms from scratch. Each project includes com
 
 More projects coming soon...
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language**: Python 3.10+
 - **Core**: NumPy only
 - **Visualization**: Matplotlib
 - **Testing**: Pytest
 
-## 📊 Progress
+## Progress
 
 - ✅ Completed: 0/38
 - 🔄 In Progress: 1/38
